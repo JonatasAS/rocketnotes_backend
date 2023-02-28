@@ -19,3 +19,4 @@ The backend of the application was hosted on render.com
 - Sqlite
 - Insomnia / Test with API
 - Beekeeper / Bank manager
+- Teste automatizados Jest
