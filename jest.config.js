@@ -5,4 +5,4 @@ module.exports = {
   testMach: [
     "<rootDir>/src/**/*.spec.js"
   ]
-}
+};
