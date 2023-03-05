@@ -9,6 +9,8 @@ The backend of the application was hosted on render.com
 
 # Technologies used 
 - Node.JS 
+- API RestFul
+- Middlewares
 - Knex 
 - Express 
 - NPM
@@ -16,6 +18,7 @@ The backend of the application was hosted on render.com
 - dotenv
 - crypto
 - Axios
+- Cors
 - Sqlite
 - Insomnia / Test with API
 - Beekeeper / Bank manager
