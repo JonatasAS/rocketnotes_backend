@@ -45,5 +45,6 @@ describe("UserCreateService", () => {
 
     await userCreateService.execute(user1);
     await expect(userCreateService.execute(user2)).rejects.toEqual(new AppError("Este e-mail já está em uso."));
+     
   });
 });
