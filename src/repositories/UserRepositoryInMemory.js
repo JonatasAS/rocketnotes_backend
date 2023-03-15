@@ -1,3 +1,5 @@
+/*A logica desta classe e criar um vetor que ira ficar armazenado na 
+memoria do computator para testes, evitando sujar o banco*/
 class UserRepositoryInMemory {
     users = [];
 
