@@ -1,3 +1,5 @@
+//Neste arquivo estamos fazendo upload da imagem, alocando em uma pasta na aplicação e definindo um nome.
+
 const multer = require("multer");
 const path = require("path");
 const crypto = require("crypto");
