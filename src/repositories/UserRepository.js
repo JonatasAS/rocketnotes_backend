@@ -1,5 +1,6 @@
 const sqliteConnections = require("../database/sqlite");
 
+//A logica desta classe vai estar executando ações em nosso banco de dados
 class UserRepository {
   async findByEmail(email) {
     const database = await sqliteConnections();
