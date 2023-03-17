@@ -1,3 +1,4 @@
+//Neste arquivo estamos migrando a forma de criação da tabela para o nosso banco referente aos dados dos links
 exports.up = knex => knex.schema.createTable("links", table => {
     table.increments("id");
     table.text("url").notNullable();
