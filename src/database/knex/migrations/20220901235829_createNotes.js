@@ -1,3 +1,5 @@
+//Neste arquivo estamos migrando a forma de criação da tabela para o nosso banco referente aos dados das notas
+
 exports.up = knex => knex.schema.createTable("notes", table => {
   table.increments("id");
   table.text("title");
