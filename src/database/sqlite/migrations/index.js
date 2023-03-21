@@ -1,3 +1,4 @@
+//realizando a conexão com o banco com as variaveis criadas, é adicionando os campos equivalente com oq foi criado para o usuário
 const sqliteConnection = require('../../sqlite');
 const createUsers = require('./createUsers');
 
