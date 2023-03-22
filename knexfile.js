@@ -1,3 +1,5 @@
+/* configuração do knex, nele estamos definindo o nosso banco e 
+a migração para o banco do que criamos no migrations*/
 const path = require("path");
 
 module.exports = {
