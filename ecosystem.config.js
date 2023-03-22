@@ -1,3 +1,4 @@
+//config dotenv
 module.exports = {
   apps : [{
     name: "app",
