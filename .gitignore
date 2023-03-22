@@ -1,3 +1,2 @@
-//arquivos que são ignorados pelo github
 node_modules
 .env
