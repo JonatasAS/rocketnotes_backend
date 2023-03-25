@@ -1,3 +1,4 @@
+// Esta sendo verificado a autenticação do usuário para o acesso a aplicação, e com o JWT temos definido um token por id de usuário
 const { verify } = require("jsonwebtoken");
 const AppError = require("../utils/AppError");
 const authConfig = require("../configs/auth");
