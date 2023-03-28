@@ -1,3 +1,4 @@
+// Rotas e metodos para funções da notas da aplicação
 const { Router } = require("express");
 const NotesController = require("../controllers/NotesController");
 const notesRoutes = Router();
