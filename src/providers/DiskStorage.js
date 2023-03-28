@@ -1,3 +1,4 @@
+// Salvando imagem do usuário, deletando imagem do usuário da pasta
 const fs = require("fs");
 const path = require("path");
 const uploadConfig = require("../configs/upload");
