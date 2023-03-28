@@ -1,3 +1,4 @@
+// Rotas da aplicação
 const { Router } = require("express");
 
 const usersRoutes = require("./users.routes");
